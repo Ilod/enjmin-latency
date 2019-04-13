@@ -1,0 +1,7 @@
+/build/projects
+/latencysample.sln
+/.vs
+/build/sharpmake/sharpmake_*
+/build/sharpmake/.vs
+/build/sharpmake/obj
+/build/sharpmake/output
